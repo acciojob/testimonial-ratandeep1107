@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #f5f5f5;
+}
+.box{
+    border: 1px solid black;
+    margin-top: 1rem;
+    background-color: #ffff;
+}
+.span{
+    text-align: right;
+    font-style: italic;
+}
+p{
+    padding: 0rem 1rem;
+}
+div{
+    margin: 2rem;
+}
